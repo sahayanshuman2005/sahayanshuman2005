@@ -1,20 +1,41 @@
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlrazFwaGZleXZsYXpvOXFzeDYzOTFqeGxjNTdod3U1OGxnNHIwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0aIY8ZCncOtgh35ftC/giphy.gif" width="100%" />
+<img src="assets/miles-morales.gif" width="100%" alt="Miles Morales Banner"/>
 
-# Hi 👋, I'm Anshuman Sahay
+<br/>
 
-### Full-Stack Developer • Backend Engineer • Web3 Builder
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=ANSHUMAN+SAHAY;FULL-STACK+DEVELOPER;BACKEND+ENGINEER;WEB3+BUILDER;ALWAYS+BUILDING..." />
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Backend+Engineer;Building+Real-Time+Applications;Distributed+Systems+Enthusiast;Solana+Developer;Always+Building..." />
+<br/><br/>
+
+<h3>
+⚡ Building Startup-Grade Products • Real-Time Systems • Distributed Architectures ⚡
+</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/anshuman-sahay-74005a2aa/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/ANSH_BUILDS">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://instagram.com/ansh_builds">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:sahayanshuman421@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+
+# 🕷️ About Me
 
 ```yaml
 Name: Anshuman Sahay
@@ -37,17 +58,31 @@ Current Focus:
 Currently Building:
   - Real-Time Collaborative Platforms
   - Scalable Backend Systems
-  - Web3 Applications
+  - Startup Products
 
-Goal:
-  Build startup-grade products and solve problems at scale.
+Mission:
+  Build products used by millions.
+```
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+### ⚡ Current Mission
+
+```txt
+[✓] Master Full-Stack Development
+[✓] Build Real-Time Systems
+[✓] Learn Distributed Systems
+[ ] Crack YC Startup Interviews
+[ ] Build a Product Used by 100K+ Users
+[ ] Become a World-Class Engineer
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/anshuman-sahay-74005a2aa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -57,90 +92,65 @@ Goal:
 </a>
 
 <a href="https://instagram.com/ansh_builds">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="mailto:sahayanshuman421@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![ThreeJS](https://img.shields.io/badge/ThreeJS-black?style=for-the-badge&logo=three.js)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
-
----
-
-# 📈 GitHub Activity Graph
+# ⚔️ Tech Arsenal
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahayanshuman2005&theme=react-dark&hide_border=true"/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,go,rust,cpp,react,nextjs,nodejs,express,postgres,mongodb,redis,prisma,docker,kubernetes,aws,terraform,git,github,tailwind,vscode&perline=11" />
+
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahayanshuman2005&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahayanshuman2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahayanshuman2005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahayanshuman2005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahayanshuman2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sahayanshuman2005&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=sahayanshuman2005&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# ⚡ Current Mission
+# 🏆 GitHub Metrics
 
-```txt
-→ Master System Design
-→ Build Startup-Grade Products
-→ Learn Distributed Systems
-→ Deep Dive into Solana
-→ Ship Fast. Learn Faster.
-```
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahayanshuman2005&theme=github_dark"/>
+</p>
 ---
-> "Build things that matter. Learn relentlessly. Ship relentlessly."
+
+<div align="center">
+
+### 🕸️ "Anyone can wear the mask."
+
+### Build. Learn. Ship. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=footer"/>
+
+</div>

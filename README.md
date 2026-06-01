@@ -2,34 +2,12 @@
 
 <img src="assets/miles-morales.gif" width="100%" alt="Miles Morales Banner"/>
 
+
 <br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=ANSHUMAN+SAHAY;FULL-STACK+DEVELOPER;BACKEND+ENGINEER;WEB3+BUILDER;ALWAYS+BUILDING..." />
-
-<br/><br/>
 
 <h3>
 ⚡ Building Startup-Grade Products • Real-Time Systems • Distributed Architectures ⚡
 </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/anshuman-sahay-74005a2aa/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://x.com/ANSH_BUILDS">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://instagram.com/ansh_builds">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:sahayanshuman421@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
 </div>
 
 ---
@@ -91,7 +69,7 @@ Mission:
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
 </a>
 
-<a href="https://instagram.com/ansh_builds">
+<a href="https://instagram.com/ansh_220105">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
@@ -151,6 +129,6 @@ Mission:
 
 ### Build. Learn. Ship. Repeat.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00a8ff&section=footer"/>
 
 </div>

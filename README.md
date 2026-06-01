@@ -108,14 +108,6 @@ Goal:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahayanshuman2005&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 # 📈 GitHub Activity Graph
 
 <p align="center">
@@ -136,14 +128,6 @@ Goal:
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=sahayanshuman2005&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sahayanshuman2005/sahayanshuman2005/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---

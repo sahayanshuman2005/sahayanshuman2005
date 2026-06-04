@@ -85,7 +85,7 @@ Mission:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,rust,cpp,react,nextjs,nodejs,express,postgres,mongodb,redis,prisma,docker,kubernetes,aws,terraform,git,github,tailwind,vscode&perline=11" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,rust,go,react,nextjs,nodejs,express,tailwind,mongodb,postgres,redis,prisma,docker,kubernetes,aws,git,github,vscode&perline=10" />
 
 </p>
 

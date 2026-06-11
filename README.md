@@ -79,6 +79,10 @@ Mission:
 
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahayanshuman2005&label=PROFILE+VIEWS&color=00a8ff&style=for-the-badge" />
+</p>
+
 ---
 
 # ⚔️ Tech Arsenal

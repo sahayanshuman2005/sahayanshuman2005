@@ -125,14 +125,11 @@ Mission:
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahayanshuman2005&theme=github_dark"/>
 </p>
----
 
 <div align="center">
 
 ### 🕸️ "Anyone can wear the mask."
 
-### Build. Learn. Ship. Repeat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00a8ff&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=00a8ff&section=footer&text=Build.%20Learn.%20Ship.%20Repeat.&fontSize=45&fontColor=ffffff" />
 
 </div>

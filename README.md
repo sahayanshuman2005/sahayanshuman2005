@@ -120,12 +120,6 @@ Mission:
 
 ---
 
-# 🏆 GitHub Metrics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahayanshuman2005&theme=github_dark"/>
-</p>
-
 <div align="center">
 
 ### 🕸️ "Anyone can wear the mask."
